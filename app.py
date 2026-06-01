@@ -113,6 +113,7 @@ PLOTLY_LAYOUT = dict(
 @st.cache_data
 def load_data(path: str = "data/cleaned_jobs.csv") -> pd.DataFrame:
     df = pd.read_csv(path)
+    df.to_parquet("data/cleaned_jobs.parquet", engine="pyarrow")
     df = df.dropna(subset=["title", "location"])
     df["company_name"] = df["company_name"].fillna("Unknown Company")
     df["normalized_salary"] = pd.to_numeric(df["normalized_salary"], errors="coerce")
