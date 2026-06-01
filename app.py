@@ -111,12 +111,35 @@ PLOTLY_LAYOUT = dict(
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 @st.cache_data
-def load_data(path: str = "data/cleaned_jobs.csv") -> pd.DataFrame:
-    df = pd.read_csv(path)
-    df.to_parquet("data/cleaned_jobs.parquet", engine="pyarrow")
+def load_data():
+    # Only load columns the dashboard actually needs
+    KEEP_COLS = [
+        "company_name",
+        "title",
+        "title_clean",
+        "job_category",
+        "location",
+        "formatted_experience_level",
+        "work_type",
+        "remote_status",
+        "normalized_salary",
+        "extracted_skills",
+        "listed_month",
+    ]
+    df = pd.read_parquet(
+        "data/cleaned_jobs2.parquet",
+        engine="pyarrow",
+        columns=KEEP_COLS,
+    )
     df = df.dropna(subset=["title", "location"])
     df["company_name"] = df["company_name"].fillna("Unknown Company")
     df["normalized_salary"] = pd.to_numeric(df["normalized_salary"], errors="coerce")
+
+    for col in ["job_category", "remote_status", "work_type",
+                "formatted_experience_level", "listed_month"]:
+        if col in df.columns:
+            df[col] = df[col].astype("category")
+            
     return df
 
 
