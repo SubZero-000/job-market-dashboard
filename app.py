@@ -111,7 +111,8 @@ PLOTLY_LAYOUT = dict(
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 @st.cache_data
-def load_data(path: str = "data/cleaned_jobs.csv") -> pd.DataFrame:
+def load_data() -> pd.DataFrame:
+    path = f"https://drive.google.com/file/d/1jnaCk4KKXqlDurxwys77l2vh0hlz69Me/view?usp=drive_link"
     df = pd.read_csv(path)
     df = df.dropna(subset=["title", "location"])
     df["company_name"] = df["company_name"].fillna("Unknown Company")
