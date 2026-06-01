@@ -1,0 +1,1185 @@
+date,skill,interest,type
+2023-01-01,python,46.0,skill
+2023-01-08,python,57.0,skill
+2023-01-15,python,59.0,skill
+2023-01-22,python,67.0,skill
+2023-01-29,python,71.0,skill
+2023-02-05,python,72.0,skill
+2023-02-12,python,71.0,skill
+2023-02-19,python,70.0,skill
+2023-02-26,python,71.0,skill
+2023-03-05,python,68.0,skill
+2023-03-12,python,65.0,skill
+2023-03-19,python,65.0,skill
+2023-03-26,python,64.0,skill
+2023-04-02,python,62.0,skill
+2023-04-09,python,63.0,skill
+2023-04-16,python,64.0,skill
+2023-04-23,python,62.0,skill
+2023-04-30,python,60.0,skill
+2023-05-07,python,57.0,skill
+2023-05-14,python,54.0,skill
+2023-05-21,python,55.0,skill
+2023-05-28,python,50.0,skill
+2023-06-04,python,54.0,skill
+2023-06-11,python,55.0,skill
+2023-06-18,python,53.0,skill
+2023-06-25,python,56.0,skill
+2023-07-02,python,47.0,skill
+2023-07-09,python,62.0,skill
+2023-07-16,python,58.0,skill
+2023-07-23,python,58.0,skill
+2023-07-30,python,54.0,skill
+2023-08-06,python,54.0,skill
+2023-08-13,python,53.0,skill
+2023-08-20,python,57.0,skill
+2023-08-27,python,63.0,skill
+2023-09-03,python,58.0,skill
+2023-09-10,python,65.0,skill
+2023-09-17,python,68.0,skill
+2023-09-24,python,61.0,skill
+2023-10-01,python,64.0,skill
+2023-10-08,python,63.0,skill
+2023-10-15,python,65.0,skill
+2023-10-22,python,64.0,skill
+2023-10-29,python,61.0,skill
+2023-11-05,python,59.0,skill
+2023-11-12,python,61.0,skill
+2023-11-19,python,45.0,skill
+2023-11-26,python,58.0,skill
+2023-12-03,python,60.0,skill
+2023-12-10,python,54.0,skill
+2023-12-17,python,46.0,skill
+2023-12-24,python,35.0,skill
+2023-12-31,python,42.0,skill
+2024-01-07,python,51.0,skill
+2024-01-14,python,51.0,skill
+2024-01-21,python,62.0,skill
+2024-01-28,python,64.0,skill
+2024-02-04,python,66.0,skill
+2024-02-11,python,69.0,skill
+2024-02-18,python,67.0,skill
+2024-02-25,python,63.0,skill
+2024-03-03,python,59.0,skill
+2024-03-10,python,61.0,skill
+2024-03-17,python,61.0,skill
+2024-03-24,python,57.0,skill
+2024-03-31,python,61.0,skill
+2024-04-07,python,56.0,skill
+2024-04-14,python,62.0,skill
+2024-04-21,python,60.0,skill
+2024-04-28,python,56.0,skill
+2024-05-05,python,52.0,skill
+2024-05-12,python,50.0,skill
+2024-05-19,python,54.0,skill
+2024-05-26,python,50.0,skill
+2023-01-01,communication,12.999999999999998,skill
+2023-01-08,communication,18.0,skill
+2023-01-15,communication,20.0,skill
+2023-01-22,communication,22.0,skill
+2023-01-29,communication,22.0,skill
+2023-02-05,communication,22.0,skill
+2023-02-12,communication,21.0,skill
+2023-02-19,communication,20.0,skill
+2023-02-26,communication,21.0,skill
+2023-03-05,communication,20.0,skill
+2023-03-12,communication,18.0,skill
+2023-03-19,communication,19.0,skill
+2023-03-26,communication,19.0,skill
+2023-04-02,communication,18.0,skill
+2023-04-09,communication,19.0,skill
+2023-04-16,communication,19.0,skill
+2023-04-23,communication,20.0,skill
+2023-04-30,communication,20.0,skill
+2023-05-07,communication,18.0,skill
+2023-05-14,communication,17.0,skill
+2023-05-21,communication,16.0,skill
+2023-05-28,communication,14.000000000000002,skill
+2023-06-04,communication,15.0,skill
+2023-06-11,communication,14.999999999999998,skill
+2023-06-18,communication,15.0,skill
+2023-06-25,communication,15.0,skill
+2023-07-02,communication,13.0,skill
+2023-07-09,communication,15.0,skill
+2023-07-16,communication,14.0,skill
+2023-07-23,communication,14.0,skill
+2023-07-30,communication,15.0,skill
+2023-08-06,communication,14.0,skill
+2023-08-13,communication,15.0,skill
+2023-08-20,communication,19.0,skill
+2023-08-27,communication,20.0,skill
+2023-09-03,communication,21.0,skill
+2023-09-10,communication,23.0,skill
+2023-09-17,communication,23.0,skill
+2023-09-24,communication,22.0,skill
+2023-10-01,communication,22.0,skill
+2023-10-08,communication,21.0,skill
+2023-10-15,communication,22.0,skill
+2023-10-22,communication,21.0,skill
+2023-10-29,communication,22.0,skill
+2023-11-05,communication,21.0,skill
+2023-11-12,communication,20.0,skill
+2023-11-19,communication,14.0,skill
+2023-11-26,communication,21.0,skill
+2023-12-03,communication,22.0,skill
+2023-12-10,communication,20.0,skill
+2023-12-17,communication,12.999999999999998,skill
+2023-12-24,communication,9.0,skill
+2023-12-31,communication,12.0,skill
+2024-01-07,communication,18.0,skill
+2024-01-14,communication,19.0,skill
+2024-01-21,communication,22.0,skill
+2024-01-28,communication,24.0,skill
+2024-02-04,communication,23.0,skill
+2024-02-11,communication,21.999999999999996,skill
+2024-02-18,communication,21.0,skill
+2024-02-25,communication,23.0,skill
+2024-03-03,communication,21.0,skill
+2024-03-10,communication,20.0,skill
+2024-03-17,communication,20.0,skill
+2024-03-24,communication,19.0,skill
+2024-03-31,communication,19.0,skill
+2024-04-07,communication,21.0,skill
+2024-04-14,communication,23.0,skill
+2024-04-21,communication,21.0,skill
+2024-04-28,communication,20.0,skill
+2024-05-05,communication,19.0,skill
+2024-05-12,communication,17.0,skill
+2024-05-19,communication,16.0,skill
+2024-05-26,communication,14.000000000000002,skill
+2023-01-01,excel,71.0,skill
+2023-01-08,excel,84.0,skill
+2023-01-15,excel,85.0,skill
+2023-01-22,excel,94.0,skill
+2023-01-29,excel,97.0,skill
+2023-02-05,excel,100.0,skill
+2023-02-12,excel,91.0,skill
+2023-02-19,excel,83.0,skill
+2023-02-26,excel,95.0,skill
+2023-03-05,excel,88.0,skill
+2023-03-12,excel,86.0,skill
+2023-03-19,excel,89.0,skill
+2023-03-26,excel,91.0,skill
+2023-04-02,excel,87.0,skill
+2023-04-09,excel,86.0,skill
+2023-04-16,excel,84.0,skill
+2023-04-23,excel,80.0,skill
+2023-04-30,excel,81.0,skill
+2023-05-07,excel,81.0,skill
+2023-05-14,excel,75.0,skill
+2023-05-21,excel,78.0,skill
+2023-05-28,excel,67.0,skill
+2023-06-04,excel,80.0,skill
+2023-06-11,excel,80.0,skill
+2023-06-18,excel,76.0,skill
+2023-06-25,excel,75.0,skill
+2023-07-02,excel,61.0,skill
+2023-07-09,excel,78.0,skill
+2023-07-16,excel,79.0,skill
+2023-07-23,excel,80.0,skill
+2023-07-30,excel,78.0,skill
+2023-08-06,excel,77.0,skill
+2023-08-13,excel,76.0,skill
+2023-08-20,excel,79.0,skill
+2023-08-27,excel,81.0,skill
+2023-09-03,excel,77.0,skill
+2023-09-10,excel,87.0,skill
+2023-09-17,excel,86.0,skill
+2023-09-24,excel,84.0,skill
+2023-10-01,excel,88.0,skill
+2023-10-08,excel,81.0,skill
+2023-10-15,excel,83.0,skill
+2023-10-22,excel,85.0,skill
+2023-10-29,excel,81.0,skill
+2023-11-05,excel,80.0,skill
+2023-11-12,excel,82.0,skill
+2023-11-19,excel,51.99999999999999,skill
+2023-11-26,excel,79.0,skill
+2023-12-03,excel,83.0,skill
+2023-12-10,excel,74.0,skill
+2023-12-17,excel,66.0,skill
+2023-12-24,excel,44.0,skill
+2023-12-31,excel,70.0,skill
+2024-01-07,excel,83.0,skill
+2024-01-14,excel,76.0,skill
+2024-01-21,excel,91.0,skill
+2024-01-28,excel,100.0,skill
+2024-02-04,excel,98.0,skill
+2024-02-11,excel,95.0,skill
+2024-02-18,excel,93.0,skill
+2024-02-25,excel,95.0,skill
+2024-03-03,excel,92.0,skill
+2024-03-10,excel,84.0,skill
+2024-03-17,excel,87.0,skill
+2024-03-24,excel,82.0,skill
+2024-03-31,excel,84.0,skill
+2024-04-07,excel,84.0,skill
+2024-04-14,excel,84.0,skill
+2024-04-21,excel,85.0,skill
+2024-04-28,excel,77.0,skill
+2024-05-05,excel,77.0,skill
+2024-05-12,excel,74.0,skill
+2024-05-19,excel,78.0,skill
+2024-05-26,excel,67.0,skill
+2023-01-01,leadership,17.0,skill
+2023-01-08,leadership,20.0,skill
+2023-01-15,leadership,18.0,skill
+2023-01-22,leadership,21.0,skill
+2023-01-29,leadership,21.0,skill
+2023-02-05,leadership,22.0,skill
+2023-02-12,leadership,20.0,skill
+2023-02-19,leadership,20.0,skill
+2023-02-26,leadership,22.0,skill
+2023-03-05,leadership,20.0,skill
+2023-03-12,leadership,19.0,skill
+2023-03-19,leadership,20.0,skill
+2023-03-26,leadership,21.0,skill
+2023-04-02,leadership,18.0,skill
+2023-04-09,leadership,20.0,skill
+2023-04-16,leadership,21.0,skill
+2023-04-23,leadership,20.0,skill
+2023-04-30,leadership,20.0,skill
+2023-05-07,leadership,20.0,skill
+2023-05-14,leadership,19.0,skill
+2023-05-21,leadership,17.0,skill
+2023-05-28,leadership,16.0,skill
+2023-06-04,leadership,17.0,skill
+2023-06-11,leadership,16.0,skill
+2023-06-18,leadership,15.0,skill
+2023-06-25,leadership,15.0,skill
+2023-07-02,leadership,13.0,skill
+2023-07-09,leadership,16.0,skill
+2023-07-16,leadership,16.0,skill
+2023-07-23,leadership,17.0,skill
+2023-07-30,leadership,16.0,skill
+2023-08-06,leadership,17.0,skill
+2023-08-13,leadership,17.0,skill
+2023-08-20,leadership,18.0,skill
+2023-08-27,leadership,19.0,skill
+2023-09-03,leadership,19.0,skill
+2023-09-10,leadership,20.0,skill
+2023-09-17,leadership,21.0,skill
+2023-09-24,leadership,21.0,skill
+2023-10-01,leadership,21.0,skill
+2023-10-08,leadership,20.0,skill
+2023-10-15,leadership,21.0,skill
+2023-10-22,leadership,21.0,skill
+2023-10-29,leadership,20.0,skill
+2023-11-05,leadership,20.0,skill
+2023-11-12,leadership,21.0,skill
+2023-11-19,leadership,12.999999999999998,skill
+2023-11-26,leadership,20.0,skill
+2023-12-03,leadership,20.0,skill
+2023-12-10,leadership,19.0,skill
+2023-12-17,leadership,12.999999999999998,skill
+2023-12-24,leadership,8.0,skill
+2023-12-31,leadership,14.0,skill
+2024-01-07,leadership,19.0,skill
+2024-01-14,leadership,19.0,skill
+2024-01-21,leadership,23.0,skill
+2024-01-28,leadership,22.0,skill
+2024-02-04,leadership,21.0,skill
+2024-02-11,leadership,21.0,skill
+2024-02-18,leadership,22.0,skill
+2024-02-25,leadership,23.0,skill
+2024-03-03,leadership,22.0,skill
+2024-03-10,leadership,20.0,skill
+2024-03-17,leadership,22.0,skill
+2024-03-24,leadership,19.0,skill
+2024-03-31,leadership,20.0,skill
+2024-04-07,leadership,21.0,skill
+2024-04-14,leadership,22.0,skill
+2024-04-21,leadership,22.0,skill
+2024-04-28,leadership,21.0,skill
+2024-05-05,leadership,19.0,skill
+2024-05-12,leadership,18.0,skill
+2024-05-19,leadership,18.0,skill
+2024-05-26,leadership,16.0,skill
+2023-01-01,aws,17.0,skill
+2023-01-08,aws,22.0,skill
+2023-01-15,aws,20.0,skill
+2023-01-22,aws,22.0,skill
+2023-01-29,aws,24.0,skill
+2023-02-05,aws,22.0,skill
+2023-02-12,aws,22.0,skill
+2023-02-19,aws,21.0,skill
+2023-02-26,aws,22.0,skill
+2023-03-05,aws,21.0,skill
+2023-03-12,aws,22.0,skill
+2023-03-19,aws,22.0,skill
+2023-03-26,aws,21.0,skill
+2023-04-02,aws,22.0,skill
+2023-04-09,aws,22.0,skill
+2023-04-16,aws,22.0,skill
+2023-04-23,aws,22.0,skill
+2023-04-30,aws,22.0,skill
+2023-05-07,aws,21.0,skill
+2023-05-14,aws,21.0,skill
+2023-05-21,aws,21.0,skill
+2023-05-28,aws,18.0,skill
+2023-06-04,aws,21.0,skill
+2023-06-11,aws,27.0,skill
+2023-06-18,aws,20.0,skill
+2023-06-25,aws,22.0,skill
+2023-07-02,aws,17.0,skill
+2023-07-09,aws,22.0,skill
+2023-07-16,aws,22.0,skill
+2023-07-23,aws,23.0,skill
+2023-07-30,aws,21.0,skill
+2023-08-06,aws,21.0,skill
+2023-08-13,aws,21.0,skill
+2023-08-20,aws,22.0,skill
+2023-08-27,aws,20.0,skill
+2023-09-03,aws,19.0,skill
+2023-09-10,aws,22.0,skill
+2023-09-17,aws,22.0,skill
+2023-09-24,aws,21.0,skill
+2023-10-01,aws,21.0,skill
+2023-10-08,aws,20.0,skill
+2023-10-15,aws,21.0,skill
+2023-10-22,aws,22.0,skill
+2023-10-29,aws,21.0,skill
+2023-11-05,aws,21.0,skill
+2023-11-12,aws,21.0,skill
+2023-11-19,aws,14.0,skill
+2023-11-26,aws,23.0,skill
+2023-12-03,aws,22.0,skill
+2023-12-10,aws,20.0,skill
+2023-12-17,aws,17.0,skill
+2023-12-24,aws,11.0,skill
+2023-12-31,aws,16.0,skill
+2024-01-07,aws,19.0,skill
+2024-01-14,aws,18.0,skill
+2024-01-21,aws,21.0,skill
+2024-01-28,aws,22.0,skill
+2024-02-04,aws,23.0,skill
+2024-02-11,aws,23.0,skill
+2024-02-18,aws,21.0,skill
+2024-02-25,aws,23.0,skill
+2024-03-03,aws,22.0,skill
+2024-03-10,aws,21.0,skill
+2024-03-17,aws,22.0,skill
+2024-03-24,aws,22.0,skill
+2024-03-31,aws,22.0,skill
+2024-04-07,aws,20.0,skill
+2024-04-14,aws,21.0,skill
+2024-04-21,aws,22.0,skill
+2024-04-28,aws,22.0,skill
+2024-05-05,aws,23.0,skill
+2024-05-12,aws,22.0,skill
+2024-05-19,aws,22.0,skill
+2024-05-26,aws,19.0,skill
+2023-01-01,customer service,100.0,skill
+2023-01-08,customer service,100.0,skill
+2023-01-15,customer service,100.0,skill
+2023-01-22,customer service,100.0,skill
+2023-01-29,customer service,100.0,skill
+2023-02-05,customer service,100.0,skill
+2023-02-12,customer service,100.0,skill
+2023-02-19,customer service,100.0,skill
+2023-02-26,customer service,100.0,skill
+2023-03-05,customer service,100.0,skill
+2023-03-12,customer service,100.0,skill
+2023-03-19,customer service,100.0,skill
+2023-03-26,customer service,100.0,skill
+2023-04-02,customer service,100.0,skill
+2023-04-09,customer service,100.0,skill
+2023-04-16,customer service,100.0,skill
+2023-04-23,customer service,100.0,skill
+2023-04-30,customer service,100.0,skill
+2023-05-07,customer service,100.0,skill
+2023-05-14,customer service,100.0,skill
+2023-05-21,customer service,100.0,skill
+2023-05-28,customer service,100.0,skill
+2023-06-04,customer service,100.0,skill
+2023-06-11,customer service,100.0,skill
+2023-06-18,customer service,100.0,skill
+2023-06-25,customer service,100.0,skill
+2023-07-02,customer service,100.0,skill
+2023-07-09,customer service,100.0,skill
+2023-07-16,customer service,100.0,skill
+2023-07-23,customer service,100.0,skill
+2023-07-30,customer service,100.0,skill
+2023-08-06,customer service,100.0,skill
+2023-08-13,customer service,100.0,skill
+2023-08-20,customer service,100.0,skill
+2023-08-27,customer service,100.0,skill
+2023-09-03,customer service,100.0,skill
+2023-09-10,customer service,100.0,skill
+2023-09-17,customer service,100.0,skill
+2023-09-24,customer service,100.0,skill
+2023-10-01,customer service,100.0,skill
+2023-10-08,customer service,100.0,skill
+2023-10-15,customer service,100.0,skill
+2023-10-22,customer service,100.0,skill
+2023-10-29,customer service,100.0,skill
+2023-11-05,customer service,100.0,skill
+2023-11-12,customer service,100.0,skill
+2023-11-19,customer service,100.0,skill
+2023-11-26,customer service,100.0,skill
+2023-12-03,customer service,100.0,skill
+2023-12-10,customer service,100.0,skill
+2023-12-17,customer service,100.0,skill
+2023-12-24,customer service,100.0,skill
+2023-12-31,customer service,100.0,skill
+2024-01-07,customer service,100.0,skill
+2024-01-14,customer service,100.0,skill
+2024-01-21,customer service,100.0,skill
+2024-01-28,customer service,100.0,skill
+2024-02-04,customer service,100.0,skill
+2024-02-11,customer service,100.0,skill
+2024-02-18,customer service,100.0,skill
+2024-02-25,customer service,100.0,skill
+2024-03-03,customer service,100.0,skill
+2024-03-10,customer service,100.0,skill
+2024-03-17,customer service,100.0,skill
+2024-03-24,customer service,100.0,skill
+2024-03-31,customer service,100.0,skill
+2024-04-07,customer service,100.0,skill
+2024-04-14,customer service,100.0,skill
+2024-04-21,customer service,100.0,skill
+2024-04-28,customer service,100.0,skill
+2024-05-05,customer service,100.0,skill
+2024-05-12,customer service,100.0,skill
+2024-05-19,customer service,100.0,skill
+2024-05-26,customer service,100.0,skill
+2023-01-01,problem solving,2.1904761904761902,skill
+2023-01-08,problem solving,2.111111111111111,skill
+2023-01-15,problem solving,2.107142857142857,skill
+2023-01-22,problem solving,2.161290322580645,skill
+2023-01-29,problem solving,2.1515151515151514,skill
+2023-02-05,problem solving,2.1176470588235294,skill
+2023-02-12,problem solving,2.1515151515151514,skill
+2023-02-19,problem solving,2.121212121212121,skill
+2023-02-26,problem solving,2.1515151515151514,skill
+2023-03-05,problem solving,2.125,skill
+2023-03-12,problem solving,2.1666666666666665,skill
+2023-03-19,problem solving,2.1666666666666665,skill
+2023-03-26,problem solving,2.1333333333333333,skill
+2023-04-02,problem solving,2.1379310344827585,skill
+2023-04-09,problem solving,2.1724137931034484,skill
+2023-04-16,problem solving,2.1333333333333333,skill
+2023-04-23,problem solving,2.1379310344827585,skill
+2023-04-30,problem solving,2.142857142857143,skill
+2023-05-07,problem solving,2.1923076923076925,skill
+2023-05-14,problem solving,2.16,skill
+2023-05-21,problem solving,2.2,skill
+2023-05-28,problem solving,2.1739130434782608,skill
+2023-06-04,problem solving,2.16,skill
+2023-06-11,problem solving,2.1153846153846154,skill
+2023-06-18,problem solving,0.0,skill
+2023-06-25,problem solving,0.0,skill
+2023-07-02,problem solving,0.0,skill
+2023-07-09,problem solving,2.1379310344827585,skill
+2023-07-16,problem solving,0.0,skill
+2023-07-23,problem solving,0.0,skill
+2023-07-30,problem solving,0.0,skill
+2023-08-06,problem solving,0.0,skill
+2023-08-13,problem solving,2.12,skill
+2023-08-20,problem solving,2.111111111111111,skill
+2023-08-27,problem solving,2.1724137931034484,skill
+2023-09-03,problem solving,2.148148148148148,skill
+2023-09-10,problem solving,2.1666666666666665,skill
+2023-09-17,problem solving,2.125,skill
+2023-09-24,problem solving,2.103448275862069,skill
+2023-10-01,problem solving,2.1333333333333333,skill
+2023-10-08,problem solving,2.1724137931034484,skill
+2023-10-15,problem solving,2.1666666666666665,skill
+2023-10-22,problem solving,2.1333333333333333,skill
+2023-10-29,problem solving,2.1785714285714284,skill
+2023-11-05,problem solving,2.107142857142857,skill
+2023-11-12,problem solving,2.1785714285714284,skill
+2023-11-19,problem solving,2.142857142857143,skill
+2023-11-26,problem solving,2.148148148148148,skill
+2023-12-03,problem solving,2.142857142857143,skill
+2023-12-10,problem solving,2.16,skill
+2023-12-17,problem solving,2.1904761904761902,skill
+2023-12-24,problem solving,0.0,skill
+2023-12-31,problem solving,0.0,skill
+2024-01-07,problem solving,2.125,skill
+2024-01-14,problem solving,2.125,skill
+2024-01-21,problem solving,2.1379310344827585,skill
+2024-01-28,problem solving,2.1333333333333333,skill
+2024-02-04,problem solving,2.129032258064516,skill
+2024-02-11,problem solving,2.15625,skill
+2024-02-18,problem solving,2.161290322580645,skill
+2024-02-25,problem solving,2.1724137931034484,skill
+2024-03-03,problem solving,2.185185185185185,skill
+2024-03-10,problem solving,2.1785714285714284,skill
+2024-03-17,problem solving,2.1785714285714284,skill
+2024-03-24,problem solving,2.1923076923076925,skill
+2024-03-31,problem solving,2.1785714285714284,skill
+2024-04-07,problem solving,2.153846153846154,skill
+2024-04-14,problem solving,2.1379310344827585,skill
+2024-04-21,problem solving,2.142857142857143,skill
+2024-04-28,problem solving,2.153846153846154,skill
+2024-05-05,problem solving,2.1666666666666665,skill
+2024-05-12,problem solving,2.1739130434782608,skill
+2024-05-19,problem solving,2.16,skill
+2024-05-26,problem solving,2.1739130434782608,skill
+2023-01-01,collaboration,2.1904761904761902,skill
+2023-01-08,collaboration,2.111111111111111,skill
+2023-01-15,collaboration,2.107142857142857,skill
+2023-01-22,collaboration,2.161290322580645,skill
+2023-01-29,collaboration,2.1515151515151514,skill
+2023-02-05,collaboration,2.1176470588235294,skill
+2023-02-12,collaboration,2.1515151515151514,skill
+2023-02-19,collaboration,2.121212121212121,skill
+2023-02-26,collaboration,2.1515151515151514,skill
+2023-03-05,collaboration,2.125,skill
+2023-03-12,collaboration,2.1666666666666665,skill
+2023-03-19,collaboration,2.1666666666666665,skill
+2023-03-26,collaboration,2.1333333333333333,skill
+2023-04-02,collaboration,2.1379310344827585,skill
+2023-04-09,collaboration,2.1724137931034484,skill
+2023-04-16,collaboration,2.1333333333333333,skill
+2023-04-23,collaboration,2.1379310344827585,skill
+2023-04-30,collaboration,2.142857142857143,skill
+2023-05-07,collaboration,2.1923076923076925,skill
+2023-05-14,collaboration,2.16,skill
+2023-05-21,collaboration,2.2,skill
+2023-05-28,collaboration,2.1739130434782608,skill
+2023-06-04,collaboration,2.16,skill
+2023-06-11,collaboration,2.1153846153846154,skill
+2023-06-18,collaboration,2.12,skill
+2023-06-25,collaboration,2.153846153846154,skill
+2023-07-02,collaboration,2.1363636363636362,skill
+2023-07-09,collaboration,2.1379310344827585,skill
+2023-07-16,collaboration,2.148148148148148,skill
+2023-07-23,collaboration,2.148148148148148,skill
+2023-07-30,collaboration,2.16,skill
+2023-08-06,collaboration,2.16,skill
+2023-08-13,collaboration,2.12,skill
+2023-08-20,collaboration,2.111111111111111,skill
+2023-08-27,collaboration,2.1724137931034484,skill
+2023-09-03,collaboration,2.148148148148148,skill
+2023-09-10,collaboration,2.1666666666666665,skill
+2023-09-17,collaboration,2.125,skill
+2023-09-24,collaboration,2.103448275862069,skill
+2023-10-01,collaboration,2.1333333333333333,skill
+2023-10-08,collaboration,2.1724137931034484,skill
+2023-10-15,collaboration,2.1666666666666665,skill
+2023-10-22,collaboration,2.1333333333333333,skill
+2023-10-29,collaboration,2.1785714285714284,skill
+2023-11-05,collaboration,2.107142857142857,skill
+2023-11-12,collaboration,2.1785714285714284,skill
+2023-11-19,collaboration,2.142857142857143,skill
+2023-11-26,collaboration,2.148148148148148,skill
+2023-12-03,collaboration,2.142857142857143,skill
+2023-12-10,collaboration,2.16,skill
+2023-12-17,collaboration,2.1904761904761902,skill
+2023-12-24,collaboration,2.1875,skill
+2023-12-31,collaboration,2.1,skill
+2024-01-07,collaboration,2.125,skill
+2024-01-14,collaboration,2.125,skill
+2024-01-21,collaboration,2.1379310344827585,skill
+2024-01-28,collaboration,2.1333333333333333,skill
+2024-02-04,collaboration,2.129032258064516,skill
+2024-02-11,collaboration,2.15625,skill
+2024-02-18,collaboration,2.161290322580645,skill
+2024-02-25,collaboration,2.1724137931034484,skill
+2024-03-03,collaboration,2.185185185185185,skill
+2024-03-10,collaboration,2.1785714285714284,skill
+2024-03-17,collaboration,2.1785714285714284,skill
+2024-03-24,collaboration,2.1923076923076925,skill
+2024-03-31,collaboration,2.1785714285714284,skill
+2024-04-07,collaboration,2.153846153846154,skill
+2024-04-14,collaboration,2.1379310344827585,skill
+2024-04-21,collaboration,2.142857142857143,skill
+2024-04-28,collaboration,2.153846153846154,skill
+2024-05-05,collaboration,2.1666666666666665,skill
+2024-05-12,collaboration,2.1739130434782608,skill
+2024-05-19,collaboration,2.16,skill
+2024-05-26,collaboration,2.1739130434782608,skill
+2023-01-01,presentation,6.571428571428571,skill
+2023-01-08,presentation,8.444444444444445,skill
+2023-01-15,presentation,8.428571428571429,skill
+2023-01-22,presentation,10.806451612903226,skill
+2023-01-29,presentation,10.757575757575758,skill
+2023-02-05,presentation,10.588235294117647,skill
+2023-02-12,presentation,10.757575757575758,skill
+2023-02-19,presentation,10.606060606060606,skill
+2023-02-26,presentation,10.757575757575758,skill
+2023-03-05,presentation,10.625,skill
+2023-03-12,presentation,10.833333333333332,skill
+2023-03-19,presentation,10.833333333333332,skill
+2023-03-26,presentation,10.666666666666666,skill
+2023-04-02,presentation,10.689655172413794,skill
+2023-04-09,presentation,10.862068965517242,skill
+2023-04-16,presentation,12.8,skill
+2023-04-23,presentation,12.827586206896552,skill
+2023-04-30,presentation,12.857142857142856,skill
+2023-05-07,presentation,10.961538461538462,skill
+2023-05-14,presentation,10.8,skill
+2023-05-21,presentation,8.8,skill
+2023-05-28,presentation,8.695652173913043,skill
+2023-06-04,presentation,8.64,skill
+2023-06-11,presentation,8.461538461538462,skill
+2023-06-18,presentation,6.359999999999999,skill
+2023-06-25,presentation,6.461538461538462,skill
+2023-07-02,presentation,6.409090909090908,skill
+2023-07-09,presentation,8.551724137931034,skill
+2023-07-16,presentation,8.592592592592592,skill
+2023-07-23,presentation,8.592592592592592,skill
+2023-07-30,presentation,8.64,skill
+2023-08-06,presentation,8.64,skill
+2023-08-13,presentation,8.48,skill
+2023-08-20,presentation,8.444444444444445,skill
+2023-08-27,presentation,8.689655172413794,skill
+2023-09-03,presentation,10.74074074074074,skill
+2023-09-10,presentation,10.833333333333332,skill
+2023-09-17,presentation,10.625,skill
+2023-09-24,presentation,10.517241379310345,skill
+2023-10-01,presentation,10.666666666666666,skill
+2023-10-08,presentation,10.862068965517242,skill
+2023-10-15,presentation,13.0,skill
+2023-10-22,presentation,10.666666666666666,skill
+2023-10-29,presentation,10.892857142857142,skill
+2023-11-05,presentation,12.642857142857142,skill
+2023-11-12,presentation,13.071428571428571,skill
+2023-11-19,presentation,8.571428571428571,skill
+2023-11-26,presentation,12.888888888888888,skill
+2023-12-03,presentation,15.0,skill
+2023-12-10,presentation,10.8,skill
+2023-12-17,presentation,6.571428571428571,skill
+2023-12-24,presentation,4.375,skill
+2023-12-31,presentation,6.3,skill
+2024-01-07,presentation,8.5,skill
+2024-01-14,presentation,8.5,skill
+2024-01-21,presentation,10.689655172413794,skill
+2024-01-28,presentation,10.666666666666666,skill
+2024-02-04,presentation,12.774193548387096,skill
+2024-02-11,presentation,12.9375,skill
+2024-02-18,presentation,10.806451612903226,skill
+2024-02-25,presentation,13.034482758620689,skill
+2024-03-03,presentation,10.925925925925926,skill
+2024-03-10,presentation,10.892857142857142,skill
+2024-03-17,presentation,10.892857142857142,skill
+2024-03-24,presentation,10.961538461538462,skill
+2024-03-31,presentation,10.892857142857142,skill
+2024-04-07,presentation,12.923076923076923,skill
+2024-04-14,presentation,14.965517241379311,skill
+2024-04-21,presentation,15.0,skill
+2024-04-28,presentation,12.923076923076923,skill
+2024-05-05,presentation,13.0,skill
+2024-05-12,presentation,10.869565217391305,skill
+2024-05-19,presentation,10.8,skill
+2024-05-26,presentation,8.695652173913043,skill
+2023-01-01,git,10.952380952380953,skill
+2023-01-08,git,12.987341772151899,skill
+2023-01-15,git,13.670731707317074,skill
+2023-01-22,git,14.408602150537634,skill
+2023-01-29,git,15.938775510204081,skill
+2023-02-05,git,15.12,skill
+2023-02-12,git,15.214285714285714,skill
+2023-02-19,git,14.432989690721648,skill
+2023-02-26,git,14.343434343434343,skill
+2023-03-05,git,14.46808510638298,skill
+2023-03-12,git,14.444444444444443,skill
+2023-03-19,git,14.444444444444443,skill
+2023-03-26,git,14.382022471910112,skill
+2023-04-02,git,13.858823529411765,skill
+2023-04-09,git,13.758620689655173,skill
+2023-04-16,git,14.382022471910112,skill
+2023-04-23,git,13.69767441860465,skill
+2023-04-30,git,12.289156626506024,skill
+2023-05-07,git,13.153846153846155,skill
+2023-05-14,git,13.864864864864865,skill
+2023-05-21,git,13.026315789473683,skill
+2023-05-28,git,11.594202898550725,skill
+2023-06-04,git,13.680000000000001,skill
+2023-06-11,git,13.75,skill
+2023-06-18,git,12.891891891891893,skill
+2023-06-25,git,13.818181818181818,skill
+2023-07-02,git,10.846153846153847,skill
+2023-07-09,git,14.41860465116279,skill
+2023-07-16,git,12.325,skill
+2023-07-23,git,14.320987654320987,skill
+2023-07-30,git,12.959999999999999,skill
+2023-08-06,git,12.959999999999999,skill
+2023-08-13,git,12.175675675675677,skill
+2023-08-20,git,12.987341772151899,skill
+2023-08-27,git,12.310344827586208,skill
+2023-09-03,git,11.600000000000001,skill
+2023-09-10,git,13.0,skill
+2023-09-17,git,13.02127659574468,skill
+2023-09-24,git,13.63529411764706,skill
+2023-10-01,git,13.090909090909092,skill
+2023-10-08,git,12.886363636363637,skill
+2023-10-15,git,13.0,skill
+2023-10-22,git,12.363636363636363,skill
+2023-10-29,git,12.345238095238095,skill
+2023-11-05,git,12.23170731707317,skill
+2023-11-12,git,12.345238095238095,skill
+2023-11-19,git,9.285714285714285,skill
+2023-11-26,git,12.325,skill
+2023-12-03,git,12.142857142857142,skill
+2023-12-10,git,11.520000000000001,skill
+2023-12-17,git,10.222222222222221,skill
+2023-12-24,git,6.5625,skill
+2023-12-31,git,9.413793103448276,skill
+2024-01-07,git,12.385714285714286,skill
+2024-01-14,git,12.211267605633802,skill
+2024-01-21,git,12.976744186046512,skill
+2024-01-28,git,13.662921348314606,skill
+2024-02-04,git,13.780219780219781,skill
+2024-02-11,git,13.65625,skill
+2024-02-18,git,13.83695652173913,skill
+2024-02-25,git,13.758620689655173,skill
+2024-03-03,git,13.839506172839505,skill
+2024-03-10,git,13.071428571428571,skill
+2024-03-17,git,13.071428571428571,skill
+2024-03-24,git,13.153846153846155,skill
+2024-03-31,git,13.071428571428571,skill
+2024-04-07,git,12.205128205128204,skill
+2024-04-14,git,13.129411764705882,skill
+2024-04-21,git,13.734939759036143,skill
+2024-04-28,git,12.205128205128204,skill
+2024-05-05,git,12.277777777777777,skill
+2024-05-12,git,12.318840579710146,skill
+2024-05-19,git,12.405405405405405,skill
+2024-05-26,git,11.594202898550725,skill
+2023-01-01,rust,21.174603174603174,skill
+2023-01-08,rust,20.924050632911392,skill
+2023-01-15,rust,25.902439024390244,skill
+2023-01-22,rust,20.892473118279568,skill
+2023-01-29,rust,21.73469387755102,skill
+2023-02-05,rust,22.32,skill
+2023-02-12,rust,19.561224489795915,skill
+2023-02-19,rust,21.649484536082475,skill
+2023-02-26,rust,21.515151515151516,skill
+2023-03-05,rust,20.97872340425532,skill
+2023-03-12,rust,20.944444444444446,skill
+2023-03-19,rust,20.944444444444446,skill
+2023-03-26,rust,20.853932584269664,skill
+2023-04-02,rust,21.88235294117647,skill
+2023-04-09,rust,22.448275862068964,skill
+2023-04-16,rust,22.292134831460675,skill
+2023-04-23,rust,20.186046511627907,skill
+2023-04-30,rust,21.686746987951807,skill
+2023-05-07,rust,21.923076923076923,skill
+2023-05-14,rust,25.54054054054054,skill
+2023-05-21,rust,23.88157894736842,skill
+2023-05-28,rust,24.637681159420293,skill
+2023-06-04,rust,23.040000000000003,skill
+2023-06-11,rust,23.157894736842103,skill
+2023-06-18,rust,20.77027027027027,skill
+2023-06-25,rust,21.81818181818182,skill
+2023-07-02,rust,23.13846153846154,skill
+2023-07-09,rust,23.069767441860463,skill
+2023-07-16,rust,21.75,skill
+2023-07-23,rust,22.197530864197528,skill
+2023-07-30,rust,22.32,skill
+2023-08-06,rust,20.88,skill
+2023-08-13,rust,20.77027027027027,skill
+2023-08-20,rust,20.924050632911392,skill
+2023-08-27,rust,19.551724137931036,skill
+2023-09-03,rust,21.75,skill
+2023-09-10,rust,20.944444444444446,skill
+2023-09-17,rust,20.25531914893617,skill
+2023-09-24,rust,17.941176470588236,skill
+2023-10-01,rust,20.363636363636363,skill
+2023-10-08,rust,20.045454545454547,skill
+2023-10-15,rust,19.5,skill
+2023-10-22,rust,19.636363636363637,skill
+2023-10-29,rust,18.880952380952383,skill
+2023-11-05,rust,18.70731707317073,skill
+2023-11-12,rust,18.880952380952383,skill
+2023-11-19,rust,19.285714285714285,skill
+2023-11-26,rust,18.85,skill
+2023-12-03,rust,19.28571428571429,skill
+2023-12-10,rust,20.16,skill
+2023-12-17,rust,21.174603174603174,skill
+2023-12-24,rust,21.145833333333332,skill
+2023-12-31,rust,21.0,skill
+2024-01-07,rust,20.400000000000002,skill
+2024-01-14,rust,20.112676056338028,skill
+2024-01-21,rust,19.46511627906977,skill
+2024-01-28,rust,19.415730337078653,skill
+2024-02-04,rust,19.582417582417584,skill
+2024-02-11,rust,19.40625,skill
+2024-02-18,rust,21.847826086956523,skill
+2024-02-25,rust,21.724137931034484,skill
+2024-03-03,rust,24.76543209876543,skill
+2024-03-10,rust,21.785714285714285,skill
+2024-03-17,rust,19.607142857142858,skill
+2024-03-24,rust,21.923076923076923,skill
+2024-03-31,rust,23.238095238095237,skill
+2024-04-07,rust,22.974358974358974,skill
+2024-04-14,rust,24.8,skill
+2024-04-21,rust,26.746987951807228,skill
+2024-04-28,rust,22.974358974358974,skill
+2024-05-05,rust,22.38888888888889,skill
+2024-05-12,rust,21.014492753623188,skill
+2024-05-19,rust,21.891891891891895,skill
+2024-05-26,rust,25.36231884057971,skill
+2023-01-01,microsoft office,6.571428571428571,skill
+2023-01-08,microsoft office,7.215189873417722,skill
+2023-01-15,microsoft office,7.195121951219512,skill
+2023-01-22,microsoft office,7.924731182795699,skill
+2023-01-29,microsoft office,7.244897959183674,skill
+2023-02-05,microsoft office,6.4799999999999995,skill
+2023-02-12,microsoft office,6.520408163265307,skill
+2023-02-19,microsoft office,6.494845360824742,skill
+2023-02-26,microsoft office,6.454545454545455,skill
+2023-03-05,microsoft office,5.787234042553191,skill
+2023-03-12,microsoft office,5.777777777777778,skill
+2023-03-19,microsoft office,6.5,skill
+2023-03-26,microsoft office,5.752808988764045,skill
+2023-04-02,microsoft office,5.8352941176470585,skill
+2023-04-09,microsoft office,5.793103448275862,skill
+2023-04-16,microsoft office,5.752808988764045,skill
+2023-04-23,microsoft office,5.767441860465116,skill
+2023-04-30,microsoft office,5.783132530120482,skill
+2023-05-07,microsoft office,5.846153846153846,skill
+2023-05-14,microsoft office,5.108108108108109,skill
+2023-05-21,microsoft office,5.065789473684211,skill
+2023-05-28,microsoft office,5.072463768115942,skill
+2023-06-04,microsoft office,5.760000000000001,skill
+2023-06-11,microsoft office,5.789473684210526,skill
+2023-06-18,microsoft office,5.72972972972973,skill
+2023-06-25,microsoft office,5.818181818181818,skill
+2023-07-02,microsoft office,5.061538461538462,skill
+2023-07-09,microsoft office,5.046511627906977,skill
+2023-07-16,microsoft office,5.074999999999999,skill
+2023-07-23,microsoft office,5.012345679012346,skill
+2023-07-30,microsoft office,5.04,skill
+2023-08-06,microsoft office,5.760000000000001,skill
+2023-08-13,microsoft office,5.72972972972973,skill
+2023-08-20,microsoft office,6.493670886075949,skill
+2023-08-27,microsoft office,6.517241379310344,skill
+2023-09-03,microsoft office,5.800000000000001,skill
+2023-09-10,microsoft office,5.777777777777778,skill
+2023-09-17,microsoft office,5.787234042553191,skill
+2023-09-24,microsoft office,5.023529411764706,skill
+2023-10-01,microsoft office,5.090909090909091,skill
+2023-10-08,microsoft office,5.011363636363637,skill
+2023-10-15,microsoft office,5.055555555555555,skill
+2023-10-22,microsoft office,5.090909090909091,skill
+2023-10-29,microsoft office,5.083333333333333,skill
+2023-11-05,microsoft office,5.036585365853659,skill
+2023-11-12,microsoft office,4.357142857142857,skill
+2023-11-19,microsoft office,4.285714285714286,skill
+2023-11-26,microsoft office,5.800000000000001,skill
+2023-12-03,microsoft office,5.7142857142857135,skill
+2023-12-10,microsoft office,4.32,skill
+2023-12-17,microsoft office,4.3809523809523805,skill
+2023-12-24,microsoft office,3.6458333333333335,skill
+2023-12-31,microsoft office,4.344827586206897,skill
+2024-01-07,microsoft office,5.828571428571428,skill
+2024-01-14,microsoft office,5.746478873239437,skill
+2024-01-21,microsoft office,5.767441860465116,skill
+2024-01-28,microsoft office,6.47191011235955,skill
+2024-02-04,microsoft office,5.802197802197803,skill
+2024-02-11,microsoft office,5.03125,skill
+2024-02-18,microsoft office,5.097826086956522,skill
+2024-02-25,microsoft office,5.068965517241379,skill
+2024-03-03,microsoft office,5.098765432098765,skill
+2024-03-10,microsoft office,4.357142857142857,skill
+2024-03-17,microsoft office,5.083333333333333,skill
+2024-03-24,microsoft office,4.384615384615385,skill
+2024-03-31,microsoft office,4.357142857142857,skill
+2024-04-07,microsoft office,4.307692307692308,skill
+2024-04-14,microsoft office,4.376470588235294,skill
+2024-04-21,microsoft office,4.337349397590361,skill
+2024-04-28,microsoft office,4.307692307692308,skill
+2024-05-05,microsoft office,4.333333333333333,skill
+2024-05-12,microsoft office,4.3478260869565215,skill
+2024-05-19,microsoft office,4.378378378378379,skill
+2024-05-26,microsoft office,4.3478260869565215,skill
+2023-01-01,project management,4.3809523809523805,skill
+2023-01-08,project management,5.050632911392405,skill
+2023-01-15,project management,5.036585365853659,skill
+2023-01-22,project management,5.763440860215054,skill
+2023-01-29,project management,5.795918367346938,skill
+2023-02-05,project management,5.040000000000001,skill
+2023-02-12,project management,5.071428571428571,skill
+2023-02-19,project management,5.051546391752577,skill
+2023-02-26,project management,5.02020202020202,skill
+2023-03-05,project management,5.0638297872340425,skill
+2023-03-12,project management,4.333333333333333,skill
+2023-03-19,project management,5.055555555555555,skill
+2023-03-26,project management,5.752808988764045,skill
+2023-04-02,project management,5.8352941176470585,skill
+2023-04-09,project management,6.517241379310344,skill
+2023-04-16,project management,7.910112359550562,skill
+2023-04-23,project management,7.930232558139535,skill
+2023-04-30,project management,5.0602409638554215,skill
+2023-05-07,project management,4.384615384615385,skill
+2023-05-14,project management,4.378378378378379,skill
+2023-05-21,project management,4.342105263157895,skill
+2023-05-28,project management,3.6231884057971016,skill
+2023-06-04,project management,4.32,skill
+2023-06-11,project management,4.342105263157895,skill
+2023-06-18,project management,3.581081081081081,skill
+2023-06-25,project management,5.090909090909091,skill
+2023-07-02,project management,3.6153846153846154,skill
+2023-07-09,project management,4.325581395348837,skill
+2023-07-16,project management,4.35,skill
+2023-07-23,project management,5.012345679012346,skill
+2023-07-30,project management,4.32,skill
+2023-08-06,project management,4.32,skill
+2023-08-13,project management,3.581081081081081,skill
+2023-08-20,project management,4.329113924050633,skill
+2023-08-27,project management,4.344827586206897,skill
+2023-09-03,project management,4.35,skill
+2023-09-10,project management,5.055555555555555,skill
+2023-09-17,project management,4.340425531914893,skill
+2023-09-24,project management,4.305882352941176,skill
+2023-10-01,project management,5.090909090909091,skill
+2023-10-08,project management,4.295454545454545,skill
+2023-10-15,project management,5.055555555555555,skill
+2023-10-22,project management,5.090909090909091,skill
+2023-10-29,project management,5.809523809523809,skill
+2023-11-05,project management,6.475609756097561,skill
+2023-11-12,project management,4.357142857142857,skill
+2023-11-19,project management,3.571428571428571,skill
+2023-11-26,project management,4.35,skill
+2023-12-03,project management,5.0,skill
+2023-12-10,project management,4.32,skill
+2023-12-17,project management,3.6507936507936507,skill
+2023-12-24,project management,2.9166666666666665,skill
+2023-12-31,project management,3.620689655172414,skill
+2024-01-07,project management,5.1000000000000005,skill
+2024-01-14,project management,5.028169014084507,skill
+2024-01-21,project management,5.767441860465116,skill
+2024-01-28,project management,5.752808988764045,skill
+2024-02-04,project management,5.802197802197803,skill
+2024-02-11,project management,5.03125,skill
+2024-02-18,project management,5.826086956521739,skill
+2024-02-25,project management,5.793103448275862,skill
+2024-03-03,project management,5.098765432098765,skill
+2024-03-10,project management,5.083333333333333,skill
+2024-03-17,project management,5.083333333333333,skill
+2024-03-24,project management,5.115384615384615,skill
+2024-03-31,project management,5.083333333333333,skill
+2024-04-07,project management,5.0256410256410255,skill
+2024-04-14,project management,5.105882352941176,skill
+2024-04-21,project management,5.0602409638554215,skill
+2024-04-28,project management,5.0256410256410255,skill
+2024-05-05,project management,4.333333333333333,skill
+2024-05-12,project management,4.3478260869565215,skill
+2024-05-19,project management,4.378378378378379,skill
+2024-05-26,project management,4.3478260869565215,skill
+2023-01-01,scala,1.84,skill
+2023-01-08,scala,1.78125,skill
+2023-01-15,scala,1.7878787878787878,skill
+2023-01-22,scala,1.810810810810811,skill
+2023-01-29,scala,1.8205128205128205,skill
+2023-02-05,scala,1.8,skill
+2023-02-12,scala,1.8205128205128205,skill
+2023-02-19,scala,1.7948717948717947,skill
+2023-02-26,scala,1.8205128205128205,skill
+2023-03-05,scala,1.837837837837838,skill
+2023-03-12,scala,1.8055555555555554,skill
+2023-03-19,scala,1.8055555555555554,skill
+2023-03-26,scala,1.8285714285714285,skill
+2023-04-02,scala,1.8235294117647058,skill
+2023-04-09,scala,1.8,skill
+2023-04-16,scala,1.8285714285714285,skill
+2023-04-23,scala,1.8235294117647058,skill
+2023-04-30,scala,1.8181818181818183,skill
+2023-05-07,scala,1.8387096774193548,skill
+2023-05-14,scala,1.8,skill
+2023-05-21,scala,1.8333333333333333,skill
+2023-05-28,scala,1.8518518518518516,skill
+2023-06-04,scala,1.8,skill
+2023-06-11,scala,1.8333333333333333,skill
+2023-06-18,scala,1.8275862068965516,skill
+2023-06-25,scala,1.8064516129032258,skill
+2023-07-02,scala,1.8076923076923077,skill
+2023-07-09,scala,1.8235294117647058,skill
+2023-07-16,scala,1.8125,skill
+2023-07-23,scala,1.8125,skill
+2023-07-30,scala,1.8,skill
+2023-08-06,scala,1.8,skill
+2023-08-13,scala,1.8275862068965516,skill
+2023-08-20,scala,1.8387096774193548,skill
+2023-08-27,scala,1.8,skill
+2023-09-03,scala,1.8125,skill
+2023-09-10,scala,1.8055555555555554,skill
+2023-09-17,scala,1.789473684210526,skill
+2023-09-24,scala,1.7941176470588236,skill
+2023-10-01,scala,1.8285714285714285,skill
+2023-10-08,scala,1.8,skill
+2023-10-15,scala,1.8055555555555554,skill
+2023-10-22,scala,1.8285714285714285,skill
+2023-10-29,scala,1.8484848484848486,skill
+2023-11-05,scala,1.7878787878787878,skill
+2023-11-12,scala,1.7941176470588236,skill
+2023-11-19,scala,1.8,skill
+2023-11-26,scala,1.8125,skill
+2023-12-03,scala,1.8181818181818183,skill
+2023-12-10,scala,1.8,skill
+2023-12-17,scala,1.84,skill
+2023-12-24,scala,1.8421052631578947,skill
+2023-12-31,scala,1.826086956521739,skill
+2024-01-07,scala,1.8214285714285714,skill
+2024-01-14,scala,1.8214285714285714,skill
+2024-01-21,scala,1.8235294117647058,skill
+2024-01-28,scala,1.8285714285714285,skill
+2024-02-04,scala,1.8333333333333333,skill
+2024-02-11,scala,1.8157894736842104,skill
+2024-02-18,scala,1.810810810810811,skill
+2024-02-25,scala,1.8,skill
+2024-03-03,scala,1.84375,skill
+2024-03-10,scala,1.8484848484848486,skill
+2024-03-17,scala,1.8484848484848486,skill
+2024-03-24,scala,1.8387096774193548,skill
+2024-03-31,scala,1.8484848484848486,skill
+2024-04-07,scala,1.8064516129032258,skill
+2024-04-14,scala,1.8235294117647058,skill
+2024-04-21,scala,1.8181818181818183,skill
+2024-04-28,scala,1.8064516129032258,skill
+2024-05-05,scala,1.793103448275862,skill
+2024-05-12,scala,1.8518518518518516,skill
+2024-05-19,scala,1.8,skill
+2024-05-26,scala,1.7857142857142856,skill
+2023-01-01,monday,66.24,skill
+2023-01-08,monday,39.1875,skill
+2023-01-15,monday,32.18181818181818,skill
+2023-01-22,monday,21.72972972972973,skill
+2023-01-29,monday,20.025641025641026,skill
+2023-02-05,monday,21.599999999999998,skill
+2023-02-12,monday,27.30769230769231,skill
+2023-02-19,monday,25.128205128205128,skill
+2023-02-26,monday,21.846153846153847,skill
+2023-03-05,monday,23.891891891891895,skill
+2023-03-12,monday,23.47222222222222,skill
+2023-03-19,monday,23.47222222222222,skill
+2023-03-26,monday,23.771428571428572,skill
+2023-04-02,monday,31.0,skill
+2023-04-09,monday,32.4,skill
+2023-04-16,monday,23.771428571428572,skill
+2023-04-23,monday,21.88235294117647,skill
+2023-04-30,monday,20.0,skill
+2023-05-07,monday,20.225806451612904,skill
+2023-05-14,monday,19.799999999999997,skill
+2023-05-21,monday,23.833333333333336,skill
+2023-05-28,monday,18.51851851851852,skill
+2023-06-04,monday,18.0,skill
+2023-06-11,monday,23.833333333333336,skill
+2023-06-18,monday,20.103448275862068,skill
+2023-06-25,monday,23.483870967741936,skill
+2023-07-02,monday,19.884615384615383,skill
+2023-07-09,monday,16.41176470588235,skill
+2023-07-16,monday,19.9375,skill
+2023-07-23,monday,18.125,skill
+2023-07-30,monday,18.0,skill
+2023-08-06,monday,19.799999999999997,skill
+2023-08-13,monday,21.93103448275862,skill
+2023-08-20,monday,20.225806451612904,skill
+2023-08-27,monday,23.400000000000002,skill
+2023-09-03,monday,25.375,skill
+2023-09-10,monday,54.16666666666667,skill
+2023-09-17,monday,59.05263157894737,skill
+2023-09-24,monday,50.23529411764706,skill
+2023-10-01,monday,49.371428571428574,skill
+2023-10-08,monday,50.400000000000006,skill
+2023-10-15,monday,39.72222222222223,skill
+2023-10-22,monday,42.05714285714286,skill
+2023-10-29,monday,38.81818181818182,skill
+2023-11-05,monday,41.121212121212125,skill
+2023-11-12,monday,44.852941176470594,skill
+2023-11-19,monday,72.0,skill
+2023-11-26,monday,100.0,skill
+2023-12-03,monday,40.0,skill
+2023-12-10,monday,41.400000000000006,skill
+2023-12-17,monday,34.96,skill
+2023-12-24,monday,20.263157894736842,skill
+2023-12-31,monday,27.391304347826086,skill
+2024-01-07,monday,36.42857142857143,skill
+2024-01-14,monday,30.96428571428571,skill
+2024-01-21,monday,20.058823529411764,skill
+2024-01-28,monday,18.285714285714285,skill
+2024-02-04,monday,20.166666666666668,skill
+2024-02-11,monday,21.789473684210524,skill
+2024-02-18,monday,19.91891891891892,skill
+2024-02-25,monday,18.0,skill
+2024-03-03,monday,18.4375,skill
+2024-03-10,monday,18.484848484848484,skill
+2024-03-17,monday,18.484848484848484,skill
+2024-03-24,monday,29.419354838709676,skill
+2024-03-31,monday,38.81818181818182,skill
+2024-04-07,monday,36.12903225806451,skill
+2024-04-14,monday,20.058823529411764,skill
+2024-04-21,monday,18.181818181818183,skill
+2024-04-28,monday,18.064516129032256,skill
+2024-05-05,monday,17.931034482758623,skill
+2024-05-12,monday,20.37037037037037,skill
+2024-05-19,monday,21.6,skill
+2024-05-26,monday,16.071428571428573,skill
+2023-01-01,sas,7.36,skill
+2023-01-08,sas,7.125,skill
+2023-01-15,sas,7.151515151515151,skill
+2023-01-22,sas,7.243243243243244,skill
+2023-01-29,sas,7.282051282051282,skill
+2023-02-05,sas,7.2,skill
+2023-02-12,sas,7.282051282051282,skill
+2023-02-19,sas,7.179487179487179,skill
+2023-02-26,sas,7.282051282051282,skill
+2023-03-05,sas,7.351351351351352,skill
+2023-03-12,sas,7.222222222222221,skill
+2023-03-19,sas,7.222222222222221,skill
+2023-03-26,sas,7.314285714285714,skill
+2023-04-02,sas,7.294117647058823,skill
+2023-04-09,sas,5.4,skill
+2023-04-16,sas,7.314285714285714,skill
+2023-04-23,sas,7.294117647058823,skill
+2023-04-30,sas,7.272727272727273,skill
+2023-05-07,sas,7.354838709677419,skill
+2023-05-14,sas,7.2,skill
+2023-05-21,sas,7.333333333333333,skill
+2023-05-28,sas,5.555555555555555,skill
+2023-06-04,sas,7.2,skill
+2023-06-11,sas,5.5,skill
+2023-06-18,sas,5.482758620689655,skill
+2023-06-25,sas,5.419354838709677,skill
+2023-07-02,sas,5.423076923076923,skill
+2023-07-09,sas,7.294117647058823,skill
+2023-07-16,sas,5.4375,skill
+2023-07-23,sas,7.25,skill
+2023-07-30,sas,7.2,skill
+2023-08-06,sas,5.4,skill
+2023-08-13,sas,5.482758620689655,skill
+2023-08-20,sas,5.516129032258064,skill
+2023-08-27,sas,5.4,skill
+2023-09-03,sas,5.4375,skill
+2023-09-10,sas,7.222222222222221,skill
+2023-09-17,sas,7.157894736842104,skill
+2023-09-24,sas,5.382352941176471,skill
+2023-10-01,sas,7.314285714285714,skill
+2023-10-08,sas,7.2,skill
+2023-10-15,sas,7.222222222222221,skill
+2023-10-22,sas,7.314285714285714,skill
+2023-10-29,sas,9.242424242424242,skill
+2023-11-05,sas,7.151515151515151,skill
+2023-11-12,sas,7.176470588235294,skill
+2023-11-19,sas,5.3999999999999995,skill
+2023-11-26,sas,7.25,skill
+2023-12-03,sas,7.272727272727273,skill
+2023-12-10,sas,7.2,skill
+2023-12-17,sas,5.52,skill
+2023-12-24,sas,3.6842105263157894,skill
+2023-12-31,sas,5.478260869565217,skill
+2024-01-07,sas,7.285714285714286,skill
+2024-01-14,sas,7.285714285714286,skill
+2024-01-21,sas,7.294117647058823,skill
+2024-01-28,sas,7.314285714285714,skill
+2024-02-04,sas,7.333333333333333,skill
+2024-02-11,sas,7.263157894736842,skill
+2024-02-18,sas,7.243243243243244,skill
+2024-02-25,sas,7.2,skill
+2024-03-03,sas,7.375,skill
+2024-03-10,sas,7.3939393939393945,skill
+2024-03-17,sas,7.3939393939393945,skill
+2024-03-24,sas,5.516129032258064,skill
+2024-03-31,sas,7.3939393939393945,skill
+2024-04-07,sas,7.225806451612903,skill
+2024-04-14,sas,7.294117647058823,skill
+2024-04-21,sas,7.272727272727273,skill
+2024-04-28,sas,5.419354838709677,skill
+2024-05-05,sas,7.172413793103448,skill
+2024-05-12,sas,5.555555555555555,skill
+2024-05-19,sas,5.4,skill
+2024-05-26,sas,5.357142857142857,skill
