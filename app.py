@@ -127,7 +127,7 @@ def load_data():
         "listed_month",
     ]
     df = pd.read_parquet(
-        "data/cleaned_jobs2.parquet",
+        "data/cleaned_jobs.parquet",
         engine="pyarrow",
         columns=KEEP_COLS,
     )
@@ -139,7 +139,7 @@ def load_data():
                 "formatted_experience_level", "listed_month"]:
         if col in df.columns:
             df[col] = df[col].astype("category")
-            
+
     return df
 
 
