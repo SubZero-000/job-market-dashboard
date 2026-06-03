@@ -23,7 +23,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-DATA_PATH = "data/cleaned_jobs2.csv"
+DATA_PATH = "data/cleaned_jobs.csv"
 MODEL_DIR = "model"
 SAL_MIN   = 20_000
 SAL_MAX   = 500_000
