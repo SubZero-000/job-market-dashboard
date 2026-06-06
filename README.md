@@ -22,7 +22,7 @@ project/
 │
 ├── data/
 │   ├── postings.csv                  # Raw LinkedIn job postings (source dataset)
-│   ├── cleaned_jobs2.csv             # Cleaned and enriched dataset (output of finals.ipynb)
+│   ├── cleaned_jobs.csv             # Cleaned and enriched dataset (output of finals.ipynb)
 │   ├── trends_combined.csv           # Google Trends skill interest data (output of google_trends.ipynb)
 │   ├── trends_jobtitles_long.csv     # Google Trends job title interest data
 │   └── skill_weekly_listings.csv     # Weekly listing counts per skill
